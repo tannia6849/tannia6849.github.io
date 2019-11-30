@@ -6,10 +6,10 @@
 #### Лабораторная работа №1
 [Ссылка на repl с работой](https://repl.it/@taniamelnikova/LabRab1)
 #### Лабораторная работа №2
-[Ссылка на github с работой](https://github.com/python-basic/sem3-lr2-tannia6849)
+[Ссылка на github с работой](https://github.com/python-basic/sem3-lr2-tannia6849)  
 [Ссылка на repl с кодом по вычислению площади по формуле Герона](https://repl.it/@taniamelnikova/geron)
 #### Лабораторная работа №3
-[Таблица истинности для A∨B](https://repl.it/@taniamelnikova/LabRab3)
+[Таблица истинности для A∨B](https://repl.it/@taniamelnikova/LabRab3)  
 [Таблица истинности для A∨B, используя кортеж](https://repl.it/@taniamelnikova/LabRab3-1)
 #### Самостоятельная работа №2
 #### Понятие функции: ИСР
