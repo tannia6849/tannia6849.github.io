@@ -32,7 +32,7 @@
 [3.1 Угадай число](https://repl.it/@taniamelnikova/guessthenumber)  
 [3.2 Шифр Цезаря](https://repl.it/@taniamelnikova/Caesars-cipher)
 #### Лабораторная работа №10
-[]()
+[Ссылка на repl с работой](https://repl.it/@taniamelnikova/LabRab10)
 #### Лабораторная работа №11
 [Ссылка на repl с работой](https://repl.it/@taniamelnikova/LabRab11)
 #### Лабораторная работа №12
