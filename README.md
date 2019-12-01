@@ -28,7 +28,7 @@
 []()
 []()
 #### Строки. Байты. Файлы: ВСР
-[3.1 ]()
+[3.1 Угадай число](https://repl.it/@taniamelnikova/guessthenumber)  
 [3.2 Шифр Цезаря](https://repl.it/@taniamelnikova/Caesars-cipher)
 #### Лабораторная работа №10
 []()
