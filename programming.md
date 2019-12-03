@@ -1,5 +1,10 @@
 # Программирование
 #### Введение в python: ИСР
+[1.1 Вывод текста на экран(не сделано)]()  
+[Скринкаст(не сделано)]()  
+[1.2 Сумма первых n-членов арифметической прогрессии(не сделано)]()  
+[1.3 Площадь треугольника с помощью формулы Герона(не сделано)](https://repl.it/@taniamelnikova/geron)  
+[1. 4 Операции сложения, вычитания, умножения, деления(не сделано)]()  
 #### Введение в python: ВСР
 #### Самостоятельная работа №1
 [Созданный репозиторий, хотя вы и так в нём находитесь](https://tannia6849.github.io)
@@ -7,7 +12,6 @@
 [Ссылка на repl с работой](https://repl.it/@taniamelnikova/LabRab1)
 #### Лабораторная работа №2
 [Ссылка на github с работой](https://github.com/python-basic/sem3-lr2-tannia6849)  
-[Ссылка на repl с кодом по вычислению площади по формуле Герона](https://repl.it/@taniamelnikova/geron)
 #### Лабораторная работа №3
 [Таблица истинности для A∨B](https://repl.it/@taniamelnikova/LabRab3)  
 [Таблица истинности для A∨B, используя кортеж](https://repl.it/@taniamelnikova/LabRab3-1)
@@ -17,8 +21,8 @@
 [№5](https://repl.it/@taniamelnikova/samrab2-1-5)  
 [№12](https://repl.it/@taniamelnikova/samrab2-1-12)   
 Задание №3  
-[№5(не сделано)](https://repl.it/@taniamelnikova/samrab2-3-5)  
-[№24(не сделано)](https://repl.it/@taniamelnikova/samrab2-3-24)  
+[№5](https://repl.it/@taniamelnikova/samrab2-3-5)  
+[№24](https://repl.it/@taniamelnikova/samrab2-3-24)  
 #### Понятие функции: ИСР
 [2.1 Таблица истинности для логического выражения(не сделано)]()  
 [2.2 Таблица истинности с помощью ASCII-графики(не сделано)]()  
