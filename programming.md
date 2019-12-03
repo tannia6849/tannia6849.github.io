@@ -13,12 +13,12 @@
 [Таблица истинности для A∨B, используя кортеж](https://repl.it/@taniamelnikova/LabRab3-1)
 #### Самостоятельная работа №2
 Задание №1  
-[№2(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-2)  
-[№5(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-5)  
-[№12(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-12)   
+[№2](https://repl.it/@taniamelnikova/samrab2-1-2)  
+[№5](https://repl.it/@taniamelnikova/samrab2-1-5)  
+[№12](https://repl.it/@taniamelnikova/samrab2-1-12)   
 Задание №3  
-[№5(не сделано)]()  
-[№24(не сделано)]()  
+[№5(не сделано)](https://repl.it/@taniamelnikova/samrab2-3-5)  
+[№24(не сделано)](https://repl.it/@taniamelnikova/samrab2-3-24)  
 #### Понятие функции: ИСР
 [2.1 Таблица истинности для логического выражения(не сделано)]()  
 [2.2 Таблица истинности с помощью ASCII-графики(не сделано)]()  
