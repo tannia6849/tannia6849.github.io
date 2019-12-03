@@ -13,9 +13,9 @@
 [Таблица истинности для A∨B, используя кортеж](https://repl.it/@taniamelnikova/LabRab3-1)
 #### Самостоятельная работа №2
 Задание №1  
-[№2(не сделано)]()  
-[№5(не сделано)]()  
-[№12(не сделано)]()   
+[№2(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-2)  
+[№5(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-5)  
+[№12(не сделано)](https://repl.it/@taniamelnikova/samrab2-1-12)   
 Задание №3  
 [№5(не сделано)]()  
 [№24(не сделано)]()  
