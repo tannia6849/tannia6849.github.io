@@ -20,13 +20,14 @@
    12. [EVNT_002](https://kodaktor.ru/custom_eef25)
    13. [EVNT_003](https://kodaktor.ru/e7200bb_1749c)
    14. [BABL_002](https://kodaktor.ru/bind02032018_94feb)
-   15. [CART]
-   16. [FRMW_001](https://kodaktor.ru/react_state_3a671)
-   17. [FRMW_002](https://kodaktor.ru/vue_starter_a0b48)
-   18. [FRMW_003](https://kodaktor.ru/frmw_ee09b)
-   19. [FRMW_004](https://kodaktor.ru/frmw_ce0a0)
-   20. [FRMW_005](https://kodaktor.ru/aff0fa8_45dca)
-   21. [YOU]
-   22. [CANV_001]
+   15. [BNDL_001]
+   16. [CART]
+   17. [FRMW_001](https://kodaktor.ru/react_state_3a671)
+   18. [FRMW_002](https://kodaktor.ru/vue_starter_a0b48)
+   19. [FRMW_003](https://kodaktor.ru/frmw_ee09b)
+   20. [FRMW_004](https://kodaktor.ru/frmw_ce0a0)
+   21. [FRMW_005](https://kodaktor.ru/aff0fa8_45dca)
+   22. [YOU]
+   23. [CANV_001]
 
 #### Компьютерный практикум
