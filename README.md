@@ -12,10 +12,10 @@
    4. [FUNC-004](https://kodaktor.ru/task_func_14c29)
    5. [FUNC-005](https://kodaktor.ru/task_func_48db3)
    6. [FUNC-006](https://kodaktor.ru/task_func_170b8)
-   7. [FUNC-007]
-   8. [FUNC-008]
-   9. [FUNC-009]
-   10. [FUNC-010]
+   7. [FUNC-007](https://kodaktor.ru/task_func_3302b)
+   8. [FUNC-008](https://kodaktor.ru/task_func_c5cae)
+   9. [FUNC-009](https://kodaktor.ru/task_func_5217b)
+   10. [FUNC-010](https://kodaktor.ru/func_7ac04)
    11. [IPS_TASK]
    12. [EVNT_002]
    13. [EVNT_003]
