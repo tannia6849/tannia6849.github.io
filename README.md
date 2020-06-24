@@ -9,9 +9,9 @@
    1. [FUNC-001](https://kodaktor.ru/task_func_68870)
    2. [FUNC-002](https://kodaktor.ru/task_func_8a942)
    3. [FUNC-003](https://kodaktor.ru/task_func_c621e)
-   4. [FUNC-004]
-   5. [FUNC-005]
-   6. [FUNC-006]
+   4. [FUNC-004](https://kodaktor.ru/task_func_14c29)
+   5. [FUNC-005](https://kodaktor.ru/task_func_48db3)
+   6. [FUNC-006](https://kodaktor.ru/task_func_170b8)
    7. [FUNC-007]
    8. [FUNC-008]
    9. [FUNC-009]
