@@ -16,10 +16,10 @@
    8. [FUNC-008](https://kodaktor.ru/task_func_c5cae)
    9. [FUNC-009](https://kodaktor.ru/task_func_5217b)
    10. [FUNC-010](https://kodaktor.ru/func_7ac04)
-   11. [IPS_TASK]
-   12. [EVNT_002]
-   13. [EVNT_003]
-   14. [BABL_002]
+   11. [IPS_TASK](https://kodaktor.ru/243aa0c_478bf)
+   12. [EVNT_002](https://kodaktor.ru/custom_eef25)
+   13. [EVNT_003](https://kodaktor.ru/e7200bb_1749c)
+   14. [BABL_002](https://kodaktor.ru/bind02032018_94feb)
    15. [CART]
    16. [FRMW_001]
    17. [FRMW_002]
