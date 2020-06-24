@@ -21,7 +21,7 @@
    13. [EVNT_003](https://kodaktor.ru/e7200bb_1749c)
    14. [BABL_002](https://kodaktor.ru/bind02032018_94feb)
    15. [BNDL_001]
-   16. [CART]
+   16. [CART](https://kodaktor.ru/custom_efb59)
    17. [FRMW_001](https://kodaktor.ru/react_state_3a671)
    18. [FRMW_002](https://kodaktor.ru/vue_starter_a0b48)
    19. [FRMW_003](https://kodaktor.ru/frmw_ee09b)
