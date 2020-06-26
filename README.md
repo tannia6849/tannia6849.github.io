@@ -6,12 +6,12 @@
 #### Веб-проектирование и веб языки
    
 #### Обогащенные интерфейсы веб приложений
-   [Микшер цветов](https://kodaktor.ru/aff0fa8_4bbbd)
-   [Магазин](https://kodaktor.ru/custom_efb59)
-   [Инициалы без поворота](https://kodaktor.ru/click_19c1c)
-   [Инициалы с поворотом](https://kodaktor.ru/click_89b99)
-   [Диаграмма](https://kodaktor.ru/4a67562_1747b)
-   [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)
+   - [Микшер цветов](https://kodaktor.ru/aff0fa8_4bbbd)
+   - [Магазин](https://kodaktor.ru/custom_efb59)
+   - [Инициалы без поворота](https://kodaktor.ru/click_19c1c)
+   - [Инициалы с поворотом](https://kodaktor.ru/click_89b99)
+   - [Диаграмма](https://kodaktor.ru/4a67562_1747b)
+   - [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)
    
    
 #### Самостоятельные работы
