@@ -7,8 +7,8 @@
 ##### Тема 1
    - [xml](https://kodaktor.ru/xml_958d3)
    - [DTD](https://kodaktor.ru/dtd_174bf)
-   - ИСР
-   - ВСР
+   - [ИСР](tannia6849.github.io)
+   - [ВСР]()
 ##### Тема 2
    - [nodemon](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/nodemon)
    - [Метод Крамера](https://kodaktor.ru/0014ff2_0cdf5)
