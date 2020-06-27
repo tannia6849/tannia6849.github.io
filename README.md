@@ -10,7 +10,7 @@
    - ИСР
    - ВСР
 ##### Тема 2
-   - nodemon
+   - [nodemon](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/nodemon)
    - [Метод Крамера](https://kodaktor.ru/0014ff2_0cdf5)
    - [Тернарный оператор](https://kodaktor.ru/ternary_eef70)
    - ИСР
@@ -22,7 +22,6 @@
    - ВСР
 ##### Тема 4
    - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
-   - Иcпользование Chrome
    - ИСР
    - ВСР
 
