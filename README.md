@@ -40,8 +40,7 @@
 ##### Тема 3
    - [Диаграмма](https://kodaktor.ru/4a67562_1747b)
 ##### Тема 4
-   - [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)
-   - [MaterialUI на React-платформе]()   
+   - [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)  
    
 #### Самостоятельные работы
    1. [FUNC-001](https://kodaktor.ru/task_func_68870)
