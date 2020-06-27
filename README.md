@@ -24,7 +24,7 @@
    - ВСР
 ##### Тема 4
    - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
-   - [ИСР]()
+   - [ИСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
    - ВСР
 
 
