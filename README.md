@@ -22,7 +22,7 @@
    - ИСР
    - ВСР
 ##### Тема 4
-   - Линтер
+   - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
    - Иcпользование Chrome
    - ИСР
    - ВСР
