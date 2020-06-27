@@ -13,17 +13,18 @@
    - [nodemon](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/nodemon)
    - [Метод Крамера](https://kodaktor.ru/0014ff2_0cdf5)
    - [Тернарный оператор](https://kodaktor.ru/ternary_eef70)
-   - [ИСР зад 1]()
-   - [ИСР зад 2](https://kodaktor.ru/9edb3a9_d106f)
-   - ВСР
+   - [ИСР задание 1](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/isr2)
+   - [ИСР задание 2](https://kodaktor.ru/9edb3a9_d106f)
+   - [ВСР задание 1]()
+   - [ВСР задание 2]()
 ##### Тема 3
    - [Валюта](https://kodaktor.ru/2358112_f7b6a)
    - [Галерея изображений](https://kodaktor.ru/bind02032018_1a43d)
-   - ИСР
+   - [ИСР](https://kodaktor.ru/b284714_78a5e)
    - ВСР
 ##### Тема 4
    - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
-   - ИСР
+   - [ИСР]()
    - ВСР
 
 
