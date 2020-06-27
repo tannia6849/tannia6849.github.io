@@ -8,12 +8,13 @@
    - [xml](https://kodaktor.ru/xml_958d3)
    - [DTD](https://kodaktor.ru/dtd_174bf)
    - [ИСР](tannia6849.github.io)
-   - [ВСР]()
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/VSR1)
 ##### Тема 2
    - [nodemon](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/nodemon)
    - [Метод Крамера](https://kodaktor.ru/0014ff2_0cdf5)
    - [Тернарный оператор](https://kodaktor.ru/ternary_eef70)
-   - ИСР
+   - [ИСР зад 1]()
+   - [ИСР зад 2](https://kodaktor.ru/9edb3a9_d106f)
    - ВСР
 ##### Тема 3
    - [Валюта](https://kodaktor.ru/2358112_f7b6a)
