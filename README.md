@@ -76,7 +76,6 @@
    - ВСР
 ##### Тема 3
    - [Извлечение данных](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-application)
-   - База данных
    - ИСР
    - ВСР
 ##### Тема 4
