@@ -80,6 +80,6 @@
    - ВСР
 ##### Тема 4
    - [Веб-приложение](https://github.com/tannia6849/tannia6849.github.io/tree/master/tema4_1)
-   - Сессии
+   - [Сессии](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_2)
    - ИСР
    - ВСР
