@@ -71,7 +71,7 @@
    - ИСР
    - ВСР
 ##### Тема 2
-   - [Веб-сервер]
+   - [Веб-сервер](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-server)
    - Клиент-сервер
    - ИСР
    - ВСР
