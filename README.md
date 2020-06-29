@@ -67,7 +67,7 @@
 #### Компьютерный практикум
 ##### Тема 1
    - [Развертывание проекта на JS](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/deploy)
-   - [Преобразование кода на JS]
+   - [Преобразование кода на JS](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/ECMAScript)
    - ИСР
    - ВСР
 ##### Тема 2
