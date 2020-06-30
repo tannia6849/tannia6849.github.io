@@ -68,18 +68,21 @@
 ##### Тема 1
    - [Развертывание проекта на JS](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/deploy)
    - [Преобразование кода на JS](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/ECMAScript)
-   - ИСР
+   - [ИСР задание 1](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema1_isr1)
+   - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema1_isr2)
    - ВСР
 ##### Тема 2
    - [Веб-сервер](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-server)
-   - ИСР
+   - [ИСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema2_isr1)
    - ВСР
 ##### Тема 3
    - [Извлечение данных](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-application)
-   - ИСР
+   - [ИСР задание 1](https://kodaktor.ru/9edb3a9_78e0e)
+   - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema3_isr2)
    - ВСР
 ##### Тема 4
    - [Веб-приложение](https://github.com/tannia6849/tannia6849.github.io/tree/master/tema4_1)
    - [Сессии](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_2)
-   - ИСР
+   - [ИСР задание 1](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_isr1)
+   - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_isr1)
    - ВСР
