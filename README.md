@@ -24,7 +24,7 @@
 ##### Тема 4
    - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
    - [ИСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/blob/master/design/tema4_vsr_MelnikovaTV.pptx)
    
 #### Обогащенные интерфейсы веб приложений
 ##### Тема 1
