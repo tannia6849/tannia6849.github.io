@@ -30,14 +30,13 @@
 ##### Тема 1
    - [Микшер цветов](https://kodaktor.ru/aff0fa8_4bbbd)
    - [Магазин](https://kodaktor.ru/custom_efb59)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/blob/master/interface/tema1_vsr_MelnikovaTV.pptx)
 ##### Тема 2
    - [Инициалы без поворота](https://kodaktor.ru/click_19c1c)
    - [Инициалы с поворотом](https://kodaktor.ru/click_89b99)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/blob/master/interface/tema2_vsr_MelnikovaTV.pptx)
 ##### Тема 3
    - [Диаграмма](https://kodaktor.ru/4a67562_1747b)
-   - ВСР
 ##### Тема 4
    - [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)  
 #### Самостоятельные работы
