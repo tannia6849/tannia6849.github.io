@@ -5,7 +5,7 @@
 ## Модуль "Проектирование и разработка веб-решений"
 #### Веб-проектирование и веб языки
 ##### Тема 1
-   - [xml](https://kodaktor.ru/xml_958d3)
+   - [XML](https://kodaktor.ru/xml_958d3)
    - [DTD](https://kodaktor.ru/dtd_174bf)
    - [ИСР](tannia6849.github.io)
    - [ВСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/VSR1)
@@ -70,19 +70,18 @@
    - [Преобразование кода на JS](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/ECMAScript)
    - [ИСР задание 1](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema1_isr1)
    - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema1_isr2)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/blob/master/pract/Тема%201%2C%20ВСР.docx)
 ##### Тема 2
    - [Веб-сервер](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-server)
    - [ИСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema2_isr1)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_isr1)
 ##### Тема 3
    - [Извлечение данных](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/web-application)
    - [ИСР задание 1](https://kodaktor.ru/9edb3a9_78e0e)
    - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema3_isr2)
-   - ВСР
+   - [ВСР](https://github.com/tannia6849/tannia6849.github.io/blob/master/pract/tema3_vsr_MelnikovaTV.pptx)
 ##### Тема 4
    - [Веб-приложение](https://github.com/tannia6849/tannia6849.github.io/tree/master/tema4_1)
    - [Сессии](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_2)
    - [ИСР задание 1](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_isr1)
    - [ИСР задание 2](https://github.com/tannia6849/tannia6849.github.io/tree/master/pract/tema4_isr1)
-   - ВСР
