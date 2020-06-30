@@ -20,27 +20,26 @@
    - [Валюта](https://kodaktor.ru/2358112_f7b6a)
    - [Галерея изображений](https://kodaktor.ru/bind02032018_1a43d)
    - [ИСР](https://kodaktor.ru/b284714_78a5e)
-   - ВСР
+   - [ВСР](https://kodaktor.ru/custom_efb59)
 ##### Тема 4
    - [Линтер](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
    - [ИСР](https://github.com/tannia6849/tannia6849.github.io/tree/master/design/linter)
    - ВСР
-
-
-
    
 #### Обогащенные интерфейсы веб приложений
 ##### Тема 1
    - [Микшер цветов](https://kodaktor.ru/aff0fa8_4bbbd)
    - [Магазин](https://kodaktor.ru/custom_efb59)
+   - ВСР
 ##### Тема 2
    - [Инициалы без поворота](https://kodaktor.ru/click_19c1c)
    - [Инициалы с поворотом](https://kodaktor.ru/click_89b99)
+   - ВСР
 ##### Тема 3
    - [Диаграмма](https://kodaktor.ru/4a67562_1747b)
+   - ВСР
 ##### Тема 4
    - [Рейтинг фреймворков](https://kodaktor.ru/e7200bb_1749c)  
-   
 #### Самостоятельные работы
    1. [FUNC-001](https://kodaktor.ru/task_func_68870)
    2. [FUNC-002](https://kodaktor.ru/task_func_8a942)
@@ -62,7 +61,6 @@
    18. [FRMW_003](https://kodaktor.ru/frmw_ee09b)
    19. [FRMW_004](https://kodaktor.ru/frmw_ce0a0)
    20. [FRMW_005](https://kodaktor.ru/aff0fa8_45dca)
-
 
 #### Компьютерный практикум
 ##### Тема 1
