@@ -25,6 +25,9 @@ def calc(a, b, operation):
     elif (operation == '-'):
         return '%.2f - %.2f = %.2f' % (a, b, a-b)
 
+a = int(input('Enter a number: '))
+b = int(input('Enter a number: '))
+c = input('Enter a symbol: ')
 
-print(calc(,3,'-'))
+print(calc(a,b,c))
 print(calc.__doc__)
