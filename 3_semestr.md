@@ -2,14 +2,14 @@
 ## ИСР
 #### Тема 1. Введение в python. 
 [1.1 Вывод текста на экран](https://repl.it/@taniamelnikova/outputtext)  
-[Скринкаст(не сделано)]()  
+(Обзор Puthon)](/Обзор%20Python.pdf)  
 [1.2 Сумма первых n-членов арифметической прогрессии](https://repl.it/@taniamelnikova/progression)  
 [1.3 Площадь треугольника с помощью формулы Герона](https://repl.it/@taniamelnikova/geron)  
 [1. 4 Операции сложения, вычитания, умножения, деления](https://repl.it/@taniamelnikova/operations)  
 #### Тема 2
-[2.1 Таблица истинности для логического выражения(не сделано)]()  
-[2.2 Таблица истинности с помощью ASCII-графики(не сделано)]()  
-[2.3 Задание связанное с рядом Фибоначчи(не сделано)]()  
+[2.1 Таблица истинности для логического выражения](https://repl.it/@taniamelnikova/LabRab3)  
+[2.2 Таблица истинности с помощью ASCII-графики](https://replit.com/@taniamelnikova/LabRab3)  
+[2.3 Задание связанное с рядом Фибоначчи](https://replit.com/@taniamelnikova/3ISR23#main.py)  
 [2.4 Решение физической задачи](https://repl.it/@taniamelnikova/phisics)
 #### Тема 3
 [3.1 Список библиотек для работы с текстом в Python(не сделано)]()   
