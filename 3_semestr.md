@@ -1,3 +1,4 @@
+# 3 семестр
 ## ИСР
 #### Тема 1. Введение в python. 
 [1.1 Вывод текста на экран](https://repl.it/@taniamelnikova/outputtext)  
