@@ -5,7 +5,7 @@ def wrapper(f):
         #functools
         writeToFile.__doc__ = f.__doc__
         print(f.__name__, args)
-        with open('text.txt', "a") as text:
+        with open('data.txt', "a") as text:
             time = datetime.utcnow()
             str = f'{f.__name__}, {args}, {time}'
             text.write(str)
