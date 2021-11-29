@@ -1,136 +1,80 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" >
 <head>
-<style>
-  body {
-  margin: 0;
-  font-family: Arial;
-}
-.header {
-  padding-top: 77px;
-  display: flex;
-  justify-content: center;
-  background-color: #03fcb1;
-}
-.navbar{
-  display: flex;
-  background-color: #323333;
-}
-a{
-  padding: 14px 20px;
-  text-decoration: none;
-  text-align: center;
-  color: white;
-  font-weight: 700;
-}
-.navbar a:hover{
-  background-color: #ddd;
-  color: black;
-}
+  <meta charset="UTF-8">
+  <title>CodePen - practice 1</title>
+  <link rel="stylesheet" href="./style.css">
 
-.container {
-  display: flex;
-}
-.footer {
-  padding: 20px;
-  text-align: center;
-  background: #ddd;
-}
-
-.side{
-  flex-basis: 30%;
-  background-color: #e8eded;
-  padding: 20px;
-}
-.main{
-  flex-basis: 70%;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-.main .fakeimg{
-  height: 250px;
-  background-color: #aeb1f2;
-  padding: 20px;
-}
-.main .fakeimg_big{
-  display: flex;
-  justify-content: space-around;
-}
-.main .fakeimg_big .div{
-  height: 150px;
-  background-color: #f7c6f6;
-  flex-basis: 31%;
-  text-align: center;
-  padding-top: 20px;
-}
-
-.fakeimg_s{
-  display: flex;
-  flex-direction: column;
-}
-
-.side .fakeimg_s .div_top{
-  height: 150px;
-  background-color: #d0f5d1;
-  text-align: center;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-</style>
 </head>
 <body>
-
-  <!-- Header -->
+<!-- partial:index.partial.html -->
+<!-- Header -->
   <div class="header">
-	<h1>My Website</h1>
+	<h1>Игротека вожатого СПО "Маэстро"</h1>
   </div>
   
   <!-- Navigation Bar -->
   <div class="navbar">
-	<a href="#">Link</a>
-	<a href="#">Link</a>
-	<a href="#">Link</a>
-	<a href="#">Link</a>
+ 	<a href="#">О нас</a>
+	<a href="#">Игротека</a>
+	<a href="#">Методичка</a>
+	<a href="#">Мастер классы</a>
   </div>
   
   <!-- The flexible grid (content) -->
   <div class="container">
-	<div class="side">
-		<h2>About Me</h2>
-		<h5>Photo of me:</h5>
-		<div class="fakeimg">Image</div>
-		<p>Lorem ipsum dolor sit ame.</p>
+
+<div class="side">
+		<h2 class="main_text">Командный состав</h2>
+		
 		<div class="fakeimg_s" >
-			<div class="div_top">main</div>
-			<div class="div_top">right-top</div>
-			<div class="div_top">right-bottom</div>
+			<div class="div_top">
+			<p class="main_text">Командир</p>
+			<p class="main_text"> Анна Волкова</p>
+                        <img class="img_s" src="images/Анна.jpg"/></div>
+			<div class="div_top">
+			<p class="main_text">Методист</p>
+			<p class="main_text"> Софья Михайлова</p>
+                        <img class="img_s" src="images/Софья.jpg"/></div>
+			<div class="div_top">
+			<p class="main_text">Комиссар</p>
+			<p class="main_text"> Маргарита Федорова</p>
+                        <img class="img_s" src="images/Маргарита.jpg"/></div>
+			<div class="div_top">
+			<p class="main_text">Комендант</p>
+			<p class="main_text"> Дарья Малинкина</p>
+                        <img class="img_s" src="images/Дарья.jpg"/></div>
+			<div class="div_top">
+			<p class="main_text">Руководитель пресс-центра</p>
+			<p class="main_text"> Анастасия Третьякова</p>
+                        <img class="img_s" src="images/Анастасия.jpg"/></div>
 		</div>
 	</div>
+
 	<div class="main">
-		<h2>TITLE HEADING</h2>
-		<h5>Title description, Dec 7, 2017</h5>
-		<div class="fakeimg">Image</div>
-		<p>Some text..</p>
-		<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-		<br>
-		<h2>TITLE HEADING</h2>
-		<h5>Title description, Sep 2, 2017</h5>
-		<div class="fakeimg_big" >
-			<div class="div">main</div>
-			<div class="div">right-top</div>
-			<div class="div">right-bottom</div>
+		<h2 class="main_text"">Студенческий педагогический отряд "Маэстро"</h2>
+                <div class="fakeimg" >
+		<img class="img" src="images/маэстро4.jpg"/>
 		</div>
-		<p>Some text..</p>
-		<p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-	</div>
-  </div>
+		<p class="main_text">Привет! Тебя приветствует студенческий педагогический отряд "Маэстро".
+    <p class="main_text">Всех желающих стать вожатым, попробовать себя в педагогической деятельности и получить развитие в этой области мы ждем с распростертыми объятиями на наших курсах вожатского мастерства.</p>
+    <p class="main_text">Чем мы занимаемся? На занятиях мы рассказываем о том, как быть вожатым, и раскладываем по полочкам всю необходимую теорию. С февраля по май, два раза в неделю и совершенно бесплатно мы разбираем нюансы детской психологии, делимся ценным опытом и даем теоретическую и практическую базу для работы в лагере. После прохождения экзамена мы выдаем сертификат, подтверждающий обучение в рамках проекта "Образовательная площадка вожатого".</p>
+    <p class="main_text">Но это лишь часть нашей деятельности. В свободное от работы время мы активно участвуем в жизни Санкт-Петербургских студенческих отрядов, ездим на соревнования, выступаем с творческими номерами и общаемся с такими же активными студентами многочисленных отрядов Санкт-Петербурга!</p>
+    <p class="main_text">Нам не хватает только тебя. Приходи, и мы сделаем твою студенческую жизнь по-настоящему драйвовой! Будь в самом сердце с СПО "Маэстро" 💚
+</p>
+		<br>
+		<div class="fakeimg_big" >
+                        <img class="div" src="images/маэстро1.jpg"/>
+                        <img class="div" src="images/маэстро2.jpg"/>
+
+		</div> 
+    <p class="main_text"><a class="main_text" href="https://instagram.com/spo_maestro?igshid=7benducqr2l7"> 💥Instagram МАЭСТРО💥<a></p>
+    <p class="main_text">
+    <a  class="main_text" href="https://vk.com/spomaestro">💥Страница VK МАЭСТРО💥<a>
+	</div></p>
   
-  <!-- Footer -->
-  <div class="footer">
-	<h2>Footer</h2>
-  </div>
-  
+
+
+ </div>
 </body>
 </html>
-
