@@ -1,0 +1,88 @@
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="pmathml.xsl"?>
+<!--
+Copyright David Carlisle 2001, 2002.
+
+Use and distribution of this code are permitted under the terms of the <a
+href="http://www.w3.org/Consortium/Legal/copyright-software-19980720"
+>W3C Software Notice and License</a>.
+-->
+<!--
+  pref:renderer="techexplorer-plugin"
+  pref:renderer="techexplorer"
+  pref:renderer="css"
+  pref:renderer="mathplayer"
+  pref:renderer="mathplayer-dl"
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html" />
+  <title>Presentation Examples</title>
+</head>
+
+<body>
+<h2>Can your browser display Presentation MathML?</h2>
+
+<p>Below you should see an equation inlined within some text</p>
+
+<p>some text, some text, 
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mrow>
+    <msup>
+      <mfenced open="[" close="]">
+        <mrow>
+          <mi>a</mi>
+          <mo>+</mo>
+          <mi>b</mi>
+        </mrow>
+      </mfenced>
+      <mn>260</mn>
+    </msup>
+    <mo>+</mo>
+    <msub>
+      <mfenced open="{" close="}">
+        <mrow>
+          <mi>a</mi>
+          <mo>+</mo>
+          <mi>b</mi>
+        </mrow>
+      </mfenced>
+      <mi>i</mi>
+    </msub>
+  </mrow>
+</math>
+ some text.</p>
+
+<p>This picture shows a possible rendering of it:</p>
+
+<p><img src="snapshot1.png" alt="Snapshot of formula above" /></p>
+
+<p>Below is an equation with a radical:</p>
+
+<p>
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <msup>
+    <msqrt>
+      <mrow>
+        <mi>a</mi>
+        <mo>+</mo>
+        <mi>b</mi>
+      </mrow>
+    </msqrt>
+    <mn>27</mn>
+  </msup>
+</math>
+</p>
+
+<p>a rendering of which is shown below:</p>
+
+<p><img src="snapshot2.png" alt="Rendering of example 2" /></p>
+
+<p>If your browser displays those equations correctly, it is enabled to
+display Presentation MathML.</p>
+
+<hr />
+<img src="/Math/mathmlSmall.png" alt="MathML inside!"/>
+</body>
+</html>
