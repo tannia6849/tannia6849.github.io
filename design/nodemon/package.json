@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "diff2html-cli": "^5.1.0",
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   }
 }
